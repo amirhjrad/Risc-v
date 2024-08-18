@@ -1,0 +1,32 @@
+# Reading pref.tcl
+# OpenFile {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/CA3.mpf}
+# Loading project CA3
+vsim -gui work.TestMultiCycle
+# vsim -gui work.TestMultiCycle 
+# Start time: 12:27:11 on Jan 13,2024
+# Loading work.TestMultiCycle
+# Loading work.RiscvMultiCycle
+# Loading work.DataPath
+# Loading work.Register_EN
+# Loading work.Mux2to1
+# Loading work.Memory
+# Loading work.Register
+# Loading work.RF
+# Loading work.ImmExtend
+# Loading work.Mux3to1
+# Loading work.ALU
+# Loading work.Mux4to1
+# Loading work.Controller
+add wave -position insertpoint  \
+sim:/TestMultiCycle/UUT/data_path/RegisterFile/mem
+run -all
+# ** Note: $stop    : D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v(7)
+#    Time: 20 ns  Iteration: 0  Instance: /TestMultiCycle
+# Break in Module TestMultiCycle at D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v line 7
+restart -f
+run -all
+# ** Note: $stop    : D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v(7)
+#    Time: 20 ns  Iteration: 0  Instance: /TestMultiCycle
+# Break in Module TestMultiCycle at D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v line 7
+# End time: 12:32:32 on Jan 13,2024, Elapsed time: 0:05:21
+# Errors: 0, Warnings: 1

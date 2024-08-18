@@ -1,0 +1,92 @@
+{D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Memory.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux3to1.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux3to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux3to1
+
+Top level modules:
+	Mux3to1
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RiscvMultiCycle.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RiscvMultiCycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscvMultiCycle
+
+Top level modules:
+	RiscvMultiCycle
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestMultiCycle
+
+Top level modules:
+	TestMultiCycle
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ImmExtend.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ImmExtend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ImmExtend
+
+Top level modules:
+	ImmExtend
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RegisterFile.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register_EN.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register_EN.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_EN
+
+Top level modules:
+	Register_EN
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux2to1.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ALU.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/mux4to1.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Controller.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/DataPath.v} {1 {vlog -work work -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA3/DataPath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}}

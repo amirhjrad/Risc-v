@@ -1,0 +1,323 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UT/Semester 5/Digital Systems 2/CAs/CA2
+vALU
+Z0 !s110 1704570372
+!i10b 1
+!s100 ]Wj=01zkQjlcB[Nz20Bn?2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Io[X>GZl0MJa^^;bGWG7GP0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/UT/Semester 5/Digital Systems 2/CAs/CA3
+w1704566252
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ALU.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/ALU.v
+!i122 13
+Z4 L0 1 19
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1704570372.000000
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ALU.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@a@l@u
+vController
+R0
+!i10b 1
+!s100 5iZ@WXVz>el1^09;k^[bg2
+R1
+IUnGa3TcLZSdL8>Ag:C^K_3
+R2
+R3
+w1704569444
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Controller.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/Controller.v
+!i122 14
+L0 51 101
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Controller.v|
+!i113 1
+R7
+R8
+n@controller
+vDataPath
+Z9 !s110 1704570373
+!i10b 1
+!s100 ooQ784WF[TPz8j?QnUVKj1
+R1
+I0n7HD872afg;WGLaj^E000
+R2
+R3
+w1704570285
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/DataPath.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/DataPath.v
+!i122 25
+L0 1 30
+R5
+r1
+!s85 0
+31
+Z10 !s108 1704570373.000000
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/DataPath.v|
+!i113 1
+R7
+R8
+n@data@path
+vImmExtend
+R0
+!i10b 1
+!s100 Ze`Q78Xa7VcnZ1d>6M]fW2
+R1
+I299e[@ofeVGRa:W2g_Dkn1
+R2
+R3
+w1704566282
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ImmExtend.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/ImmExtend.v
+!i122 15
+L0 7 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ImmExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/ImmExtend.v|
+!i113 1
+R7
+R8
+n@imm@extend
+vMemory
+R9
+!i10b 1
+!s100 908g^4bCO[;CV?=HEI=6f1
+R1
+IhLX3LX_]fSEa0BRF[3[Mh0
+R2
+R3
+w1704566309
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Memory.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/Memory.v
+!i122 16
+L0 1 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Memory.v|
+!i113 1
+R7
+R8
+n@memory
+vMux2to1
+R9
+!i10b 1
+!s100 TIjlG3;[OVhKX_MoPgj:K0
+R1
+Iza`Dbfgm[7eba=[hUYLJQ2
+R2
+R3
+w1685969284
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux2to1.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux2to1.v
+!i122 17
+L0 1 3
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux2to1.v|
+!i113 1
+R7
+R8
+n@mux2to1
+vMux3to1
+R9
+!i10b 1
+!s100 1]gkT_j3Jnj063cK4>ozb0
+R1
+ICo1m[B4m6KKHXNXK8Q=Ok2
+R2
+R3
+w1685969666
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux3to1.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux3to1.v
+!i122 18
+L0 1 6
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux3to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Mux3to1.v|
+!i113 1
+R7
+R8
+n@mux3to1
+vMux4to1
+R9
+!i10b 1
+!s100 iO1G9:IU91i:7TNMQH<Mg0
+R1
+IlNa^:U?1WURQELAkiN4YU2
+R2
+R3
+w1685969672
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/mux4to1.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/mux4to1.v
+!i122 19
+Z11 L0 1 7
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/mux4to1.v|
+!i113 1
+R7
+R8
+n@mux4to1
+vRegister
+R9
+!i10b 1
+!s100 PaZJU[za[;YJ1TRg^bU^[3
+R1
+IX:>m]9jI759L41P2n9W5W0
+R2
+R3
+w1704566334
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register.v
+!i122 20
+R11
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegister_EN
+R9
+!i10b 1
+!s100 i<Bd9e`Y31I^LN=FGON2P2
+R1
+IeEZ;nRUz`@V?:650?>n4d3
+R2
+R3
+w1704566366
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register_EN.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register_EN.v
+!i122 21
+L0 1 11
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register_EN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/Register_EN.v|
+!i113 1
+R7
+R8
+n@register_@e@n
+vRF
+R9
+!i10b 1
+!s100 LB=GN?oPe8:Pf8<QW2fUU1
+R1
+I^5=HMZ7SWB1ChQ`5EBM781
+R2
+R3
+w1704566401
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RegisterFile.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/RegisterFile.v
+!i122 22
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RegisterFile.v|
+!i113 1
+R7
+R8
+n@r@f
+vRiscvMultiCycle
+R9
+!i10b 1
+!s100 e;clZ`e:hInnI4@XK3dUl0
+R1
+IafVObk`KFee8H<@55]RH93
+R2
+R3
+w1704566499
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RiscvMultiCycle.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/RiscvMultiCycle.v
+!i122 23
+L0 1 8
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RiscvMultiCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/RiscvMultiCycle.v|
+!i113 1
+R7
+R8
+n@riscv@multi@cycle
+vTestMultiCycle
+R9
+!i10b 1
+!s100 TCE<ODg:RhFN:cYZn8`Mb3
+R1
+Ih^TiJkLdM]2z_I41ZKc1X3
+R2
+R3
+w1704566541
+8D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v
+FD:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v
+!i122 24
+L0 1 9
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/Semester 5/Digital Systems 2/CAs/CA3/TestMultiCycle.v|
+!i113 1
+R7
+R8
+n@test@multi@cycle
